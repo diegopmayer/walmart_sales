@@ -1,5 +1,6 @@
-# Walmart Forecast Sales
 ![banner_walmart](https://user-images.githubusercontent.com/33847158/90065184-48b7e980-dcc2-11ea-96e1-5823965a5be7.jpg)
+
+# Walmart Forecast Sales
 
 
 ### Objective
@@ -17,4 +18,5 @@
 <ol>
     <li> Cycle_02 --> Feature Engineering with date and holydays</li>
     <li> Cycle_03 --> Feature Engineering with Weather</li>
+    <li> Cycle_04 --> Feature Engineering with Economics information</li>
 </ol>
